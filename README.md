@@ -56,7 +56,7 @@ Air quality is a growing concern in many parts of the world. This project uses F
 
 # ⚙️ Installation
 
-git clone https://github.com/yourusername/air-quality-forecast-app.git
+git clone https://github.com/Vasuki2799/air-quality-forecast-app.git
 
 cd air-quality-forecast-app
 
@@ -90,6 +90,7 @@ Feel free to connect and collaborate!
 
 
 
-📄 License
+# 📄 License
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
