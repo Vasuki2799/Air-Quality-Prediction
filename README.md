@@ -88,5 +88,11 @@ Feel free to connect and collaborate!
 
 **LinkedIn:** [linkedin.com/in/vasuki-arul](https://linkedin.com/in/vasuki-arul)  
 
+## 🎥 Demo Video
+
+📺 Watch the full walkthrough here
+
+https://www.linkedin.com/posts/vasuki27_datascience-timeseries-airquality-activity-7335915766275272704-Wk_X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
+
 
 
