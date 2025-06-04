@@ -65,9 +65,17 @@ pip install -r requirements.txt
 # 🚀 Launch the app
 streamlit run air_quality.py
 
+
+
 # 📷 Screenshots
 Home Page	Forecast View	Forecast Components
 <img width="1440" alt="Screenshot 2025-06-04 at 11 29 16 AM" src="https://github.com/user-attachments/assets/42a37feb-35f5-49e5-a9ef-9aabdbbb08d9" />
+
+## 🎥 Demo Video
+
+📺 Watch the full walkthrough here
+
+https://www.linkedin.com/posts/vasuki27_datascience-timeseries-airquality-activity-7335915766275272704-Wk_X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
 
 
 # 📈 Future Work
@@ -87,12 +95,5 @@ Feel free to connect and collaborate!
 **Email:** vasukiarul27@gmail.com  
 
 **LinkedIn:** [linkedin.com/in/vasuki-arul](https://linkedin.com/in/vasuki-arul)  
-
-## 🎥 Demo Video
-
-📺 Watch the full walkthrough here
-
-https://www.linkedin.com/posts/vasuki27_datascience-timeseries-airquality-activity-7335915766275272704-Wk_X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFWofHABP5vZ1q4SVksdeQ_qxpl9ilnOKXM
-
 
 
