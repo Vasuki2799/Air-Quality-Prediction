@@ -5,11 +5,17 @@
 A Streamlit web app to forecast Air Quality Index (AQI) trends using the Facebook Prophet time series model. Upload your own CSV data and visualize trends, seasonality, and future AQI patterns.
 
 ## 📌 Table of Contents
+
 🔍 Overview
+
 🛠 Features
+
 📁 Project Structure
+
 ▶️ Run the App
+
 📷 Screenshots
+
 📈 Future Work
 
 ## 🔍 Overview
